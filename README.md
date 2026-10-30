@@ -4,7 +4,7 @@
 
 **OurDay · Protocol · Cem Ecevit TV · HobbyShare · Photobooth**
 
-<a href="https://bugrayetis.github.io/mevcut.html#mobile-apps"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#mobile-apps"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" /></a>
 
 </div>
 
@@ -22,7 +22,7 @@ Düğün planlama sürecini kolaylaştıran kapsamlı bir mobil uygulama. Davetl
 
 **Platform:** iOS · Android &nbsp;·&nbsp; `React Native` `Firebase` `AI Wedding Guide` `Bütçe Yönetimi` `Davetli Takibi`
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-ourday"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-ourday"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
 ---
 
 ### Protocol · Offline Hayatta Kalma Asistanı
@@ -37,7 +37,7 @@ Düğün planlama sürecini kolaylaştıran kapsamlı bir mobil uygulama. Davetl
 
 **Platform:** iOS · Android &nbsp;·&nbsp; `React Native` `Offline-First` `SOS Flashlight` `Morse Code` `GPS`
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-protocol"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-protocol"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
 ---
 
 ### Cem Ecevit TV · Karavan Rotaları & Kamp Alanları
@@ -52,41 +52,41 @@ Karavan gezginleri için AI destekli rota planlayıcı ve kamp alanı keşif pla
 
 **Platform:** iOS · Android &nbsp;·&nbsp; `React Native` `AI Rota Planlama` `OpenStreetMap` `25K+ Kamp Alanı` `Tow Calculator`
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-cemtv"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-cemtv"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
 ---
 
 ### HobbyShare · Hobi Odaklı Sosyalleşme Uygulaması
 
 <div align="center">
-<img src="https://bugrayetis.github.io/yeni/assets/hobbyshare/1.jpg" width="24%" />
-<img src="https://bugrayetis.github.io/yeni/assets/hobbyshare/2.jpg" width="24%" />
-<img src="https://bugrayetis.github.io/yeni/assets/hobbyshare/3.jpg" width="24%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/hobbyshare/1.jpg" width="24%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/hobbyshare/2.jpg" width="24%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/hobbyshare/3.jpg" width="24%" />
 </div>
 
 Ortak hobileri olan insanları bir araya getiren sosyal uygulama. Kullanıcılar kulüp kurup katılabiliyor, kulüp içinde tartışma konuları açabiliyor, yakındaki çevrim içi ve yüz yüze buluşmaları keşfedip kayıt olabiliyor ve birebir sohbet edebiliyor. Plus aboneliğiyle sınırsız mesaj ve öne çıkma özellikleri sunuyor.
 
 **Platform:** iOS &nbsp;·&nbsp; `Mobil Uygulama` `Kulüpler` `Buluşmalar` `Etkinlik Kaydı` `Sohbet`
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-hobbyshare"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-hobbyshare"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
 ---
 
 ### Photobooth · Etkinlikler için iPad Fotoğraf Kabini
 
 <div align="center">
-<img src="https://bugrayetis.github.io/yeni/assets/photobooth/1.jpg" width="36%" />
-<img src="https://bugrayetis.github.io/yeni/assets/photobooth/2.jpg" width="36%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/photobooth/1.jpg" width="36%" />
+<img src="https://bugrayetis.github.io/adventure-mod/assets/photobooth/2.jpg" width="36%" />
 </div>
 
 Bir sağlık etkinliği için geliştirdiğim iPad photobooth uygulaması. Arka plan değiştirme, marka katmanları ve emojilerle fotoğraf düzenleme, geri sayımlı çekim, galeriden içe aktarma, baskı ve paylaşım sunuyor. Etkinlik stüdyosundan arka plan ve katman kütüphanesi yönetiliyor, booth sayacı çekilen ve basılan fotoğrafları takip ediyor.
 
 **Platform:** iPadOS &nbsp;·&nbsp; `iPad` `Kamera` `Arka Plan Değiştirme` `Marka Katmanları` `Baskı`
 
-<a href="https://bugrayetis.github.io/mevcut.html#proje-photobooth"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
+<a href="https://bugrayetis.github.io/normal-mod#proje-photobooth"><img src="https://img.shields.io/badge/Portfolyoda_İncele_→-6c63ff?style=flat-square" /></a>
 
 ---
 
 ## 🔒 Kaynak Kod
 
-Bu repo yalnızca uygulamaların tanıtımını içerir; kaynak kod paylaşılmıyor. Ekran görüntüleri ve detaylar için **[portfolyoma](https://bugrayetis.github.io/mevcut.html#mobile-apps)** göz atın.
+Bu repo yalnızca uygulamaların tanıtımını içerir; kaynak kod paylaşılmıyor. Ekran görüntüleri ve detaylar için **[portfolyoma](https://bugrayetis.github.io/normal-mod#mobile-apps)** göz atın.
 
 <div align="center"><sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub></div>
